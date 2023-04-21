@@ -1,0 +1,12 @@
+header,
+.cards {
+  min-height: 50vh;
+}
+
+.gradient-background {
+  background: linear-gradient(
+    to left top,
+    hsl(195, 53%, 70%),
+    hsl(207, 44%, 49%)
+  );
+}
