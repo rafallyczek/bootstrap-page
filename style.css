@@ -3,6 +3,10 @@ header,
   min-height: 50vh;
 }
 
+footer{
+  min-height: 10vh;
+}
+
 .gradient-background {
   background: linear-gradient(
     to left top,
