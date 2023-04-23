@@ -1,2 +1,3 @@
-# bootstrap-page
-Bootstrap practice project.
+# Bootstrap page
+Small project made while learning Bootstrap 5.  
+[Live Preview](https://rafallyczek.github.io/bootstrap-page/)
